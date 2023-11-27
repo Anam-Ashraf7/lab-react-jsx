@@ -1,1 +1,18 @@
 /* add your styles here */
+
+#title {
+    text-align: center;
+    padding: 20px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+
+img {
+    padding-bottom: 30px;
+    width: 45%;
+}
